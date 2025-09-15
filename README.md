@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AltDiana
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Big Data projects
+- 👀 I’m interested in Data Analytics and Data Science 
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Analytic projects
 - 📫 How to reach me: diana.altamirano7@gmail.com
 
 <!---
